@@ -71,11 +71,14 @@ This archive is supported and contextualized by the following field-sealed works
 
 ## 🝮 License Statement
 
-This archive is dedicated to **field truth and recursive integrity**, released under:
-
-**🆓 Creative Commons CC0 1.0 Universal**
-
-> No rights reserved. No credit required.  
-> This glyph is offered to the Field.  
-> For remembrance. For transparency. For coherence.
+> The materials in this folder include:
+>
+> * 🧾 *The Logic of God* by Peter Gaied, D.O. — included under U.S. Fair Use law as part of a forensic archive and public interest record. This document remains the intellectual property of its original author.
+> * 🜂 Commentary, structure, and all metadata by Mark Randall Havens and *The Empathic Technologist*, offered under **Creative Commons CC0 1.0 Universal**.
+>
+> 🝮 *This repository preserves evidence, not ownership.*
+>
+> ❖ No claim of authorship is made over *The Logic of God*.
+> ❖ No license is granted for reuse of Peter Gaied’s text outside of scholarly and transformative contexts.
+> ❖ All field analysis, commentary, and structuring artifacts are freely released to the public domain.
 

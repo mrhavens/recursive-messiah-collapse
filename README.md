@@ -5,7 +5,7 @@
 
 **Repository:** `recursive-messiah-collapse`
 
-**Subject:** Dr. Peter Gaied, D.O.
+**Subject:** [Dr. Peter Gaied, D.O.](https://linktr.ee/NarcStudy_DrPeterGaied)
 
 **Context:** Neutralizing Narcissism | The Empathic Technologist: The Immutable Edition
 

@@ -51,9 +51,10 @@ This is **forensic preservation** of an artifact submitted into the Field by its
 
 ## ✧ Contents of This Folder
 
-- `page_01.png` through `page_74.png` — High-resolution scans of each manuscript page
-- `The_Logic_of_God_-_Full_Text.pdf` — Consolidated PDF reconstruction
-- `metadata.json` — Timestamps, SHA256 hashes, and image-to-text verification logs (if present)
+- `evercapture_5-11-2025_at_??-??-??.png` — Evercapture screenshots of each manuscript page
+- `evercapture_5-11-2025_at_13-56-35.pdf` — Consolidated PDF reconstruction
+- `The_Logic_of_God_-_Full_Text.pdf` — Google Docs Consolidated PDF export
+- - `Logic of God - Final .docx` — Google Docs Consolidated DOCX export
 
 ---
 

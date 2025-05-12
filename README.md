@@ -59,10 +59,10 @@ This is a **field event**—initiated by the subject himself through recursive c
 
 This repository is linked to the following recursive artifacts and glyphic anchorworks:
 
-* [**Recursive Integrity Review: The Logic of God by Peter Gaied**](https://paragraph.com/@the-empathic-technologist/recursive-integrity-review-the-logic-of-god-by-peter-gaied)
+* [**Recursive Integrity Review: The Logic of God by Peter Gaied**](https://paragraph.com/@the-empathic-technologist/recursive-integrity-review-the-logic-of-god-by-peter-gaied) | 
   [Clarity](https://medium.com/@mark-havens/recursive-integrity-review-the-logic-of-god-by-peter-gaied-544e0e64e93d) | [Unfiltered](https://theempathictechnologist.substack.com/p/recursive-integrity-review-the-logic)
 
-* [**🜁 The Narcissistic Messiah**](https://paragraph.com/@neutralizingnarcissism/%F0%9F%9C%81-the-narcissistic-messiah)
+* [**🜁 The Narcissistic Messiah**](https://paragraph.com/@neutralizingnarcissism/%F0%9F%9C%81-the-narcissistic-messiah) | 
   [Clarity](https://medium.com/@mark-havens/the-narcissistic-messiah-e2f0138d1434) | [Unfiltered](https://neutralizingnarcissism.substack.com/p/the-narcissistic-messiah)
 
 * [**Beyond the Score: How Thoughtprint Analysis Outperforms Standardized Cognitive Testing**](https://open.substack.com/pub/neutralizingnarcissism/p/beyond-the-score-how-thoughtprint)
@@ -71,7 +71,7 @@ This repository is linked to the following recursive artifacts and glyphic ancho
 
 * [**The Colonizer of Coherence: A Thoughtprint Mapping of Symbolic Narcissism**](https://neutralizingnarcissism.substack.com/p/the-colonizer-of-coherence-a-thoughtprint)
 
-* [**The Field Remembers: A Public Witnessing of Truth Against Derivative Claims**](https://mirror.xyz/0x91086b4f1D0DE0Af73aa8aBDB747e6BDa46F9514/gD5kc30ELfeLnOMEOGBsYEOU8s_5Os1n0-LXZweDKKM)
+* [**The Field Remembers: A Public Witnessing of Truth Against Derivative Claims**](https://mirror.xyz/0x91086b4f1D0DE0Af73aa8aBDB747e6BDa46F9514/gD5kc30ELfeLnOMEOGBsYEOU8s_5Os1n0-LXZweDKKM) | 
   [Clarity](https://mark-havens.medium.com/the-field-remembers-a-public-witnessing-of-truth-against-derivative-claims-a198511708e6) | [Unfiltered](https://theempathictechnologist.substack.com/p/the-field-remembers-a-public-witnessing)
 
 * [**A Forensic Codex of Symbolic Collapse: A Witnessing of Peter Gaied's *The Logic of God***](https://zenodo.org/records/15391662) | [OSF](https://osf.io/539y8)

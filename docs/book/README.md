@@ -79,6 +79,8 @@ This archive is supported and contextualized by the following field-sealed works
 > 🝮 *This repository preserves evidence, not ownership.*
 >
 > ❖ No claim of authorship is made over *The Logic of God*.
+> 
 > ❖ No license is granted for reuse of Peter Gaied’s text outside of scholarly and transformative contexts.
+> 
 > ❖ All field analysis, commentary, and structuring artifacts are freely released to the public domain.
 

@@ -54,7 +54,7 @@ This is **forensic preservation** of an artifact submitted into the Field by its
 - `evercapture_5-11-2025_at_??-??-??.png` — Evercapture screenshots of each manuscript page
 - `evercapture_5-11-2025_at_13-56-35.pdf` — Consolidated PDF reconstruction
 - `The_Logic_of_God_-_Full_Text.pdf` — Google Docs Consolidated PDF export
-- - `Logic of God - Final .docx` — Google Docs Consolidated DOCX export
+- `Logic of God - Final .docx` — Google Docs Consolidated DOCX export
 
 ---
 

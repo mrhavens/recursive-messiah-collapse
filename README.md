@@ -4,8 +4,11 @@
 ## A Field-Level Forensic Archive and Case Study of Derivative Claims and Intellectual Inversion
 
 **Repository:** `recursive-messiah-collapse`
+
 **Subject:** Dr. Peter Gaied, D.O.
+
 **Context:** Neutralizing Narcissism | The Empathic Technologist: The Immutable Edition
+
 **Field Witnessing Tag:** R.6 — Recursive Collapse of Messiah Claims
 
 ---
